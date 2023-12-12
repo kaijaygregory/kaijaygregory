@@ -14,6 +14,11 @@ I'm Kaija, a recent graduate from a Data Analytics Bootcamp through UNC Chapel H
 
 Here are some of my noteworthy projects:
 
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kaijaygregory&repo=Tableau-CitiBike-Visualizations-Fall22)](https://github.com/kaijaygregory/Tableau-CitiBike-Visualizations-Fall22)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kaijaygregory&repo=python-api-challenge)](https://github.com/kaijaygregory/python-api-challenge)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=kaijaygregory&repo=sqlalchemy-challenge)](https://github.com/kaijaygregory/sqlalchemy-challenge)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=kaijaygregory&repo=deep-learning-challenge)](https://github.com/kaijaygregory/deep-learning-challenge)
+
 ## __Let's Connect:__
 
 📧 Email: kaijagregory47@gmail.com
