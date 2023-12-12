@@ -4,7 +4,7 @@
 
 I'm Kaija, a recent graduate from a Data Analytics Bootcamp through UNC Chapel Hill, driven by a profound fascination for the world of Data Science. I thrive on exploring the depths of complex data, uncovering insights, and crafting solutions that harness the power of information. Here's what my GitHub profile showcases:
 
-##__Skills & Expertise:__
+## __Skills & Expertise:__
 
 * Proficient in Python programming for data manipulation, analysis, and machine learning.
 * Experienced in handling data using Excel, SQL, and MongoDB, ensuring efficient organization and retrieval of information.
@@ -19,7 +19,7 @@ Here are some of my noteworthy projects:
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=kaijaygregory&repo=sqlalchemy-challenge)](https://github.com/kaijaygregory/sqlalchemy-challenge)
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=kaijaygregory&repo=deep-learning-challenge)](https://github.com/kaijaygregory/deep-learning-challenge)
 
-##__Let's Connect:__
+## __Let's Connect:__
 
 📧 Email: kaijagregory47@gmail.com
 🔗 LinkedIn: [https://www.linkedin.com/in/kaijagregory/]
